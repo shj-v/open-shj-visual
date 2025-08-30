@@ -1,6 +1,22 @@
-# 山河鉴数据可视化平台 - 功能特性
+<br />
+<div align="center" style="background: #fff; margin-bottom: 20px;">
+<img src="./assets/s1.png" alt="山河鉴Logo" width="100%" style="border-radius: 0px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin-bottom: 20px"/>
 
-> 本文档以表格形式展示山河鉴数据可视化平台的部分功能特性。
+[English](./features.en.md) | 简体中文
+</div>
+
+<br />
+<div align="center">
+<p><strong>自由创作 所想所得</strong></p>
+  <p>您设计，我们生成源码和应用程序，随时可以展示、发布或二次开发。</p>
+  
+  [![Version](https://img.shields.io/badge/version-2.0.46-blue.svg)](https://github.com/your-org/open-shj-visual)
+  [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+  [![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey.svg)](https://shj.studio/website/)
+  
+  [🌐 官网](https://shj.studio/website/) | [📖 文档](https://shj.studio/website/) | [💬 社区](https://github.com/your-org/open-shj-visual/discussions) | [🐛 反馈](https://github.com/your-org/open-shj-visual/issues)
+</div>
+
 
 ## 功能特性
 

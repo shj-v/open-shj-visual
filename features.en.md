@@ -1,6 +1,20 @@
-# Shanhejian Data Visualization Platform - Feature List
+<br />
+<div align="center" style="background: #fff; margin-bottom: 20px;">
+<img src="./assets/s1.png" alt="Shanhejian Logo" width="100%" style="border-radius: 0px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin-bottom: 20px"/>
 
-> This document presents some features of the Shanhejian Data Visualization Platform in table format.
+English | [简体中文](./features.cn.md)
+</div>
+<br />
+<div align="center">
+<p><strong>Free Creation, What You See Is What You Get</strong></p>
+  <p>You design, we generate source code and applications, ready to display, publish, or further develop.</p>
+  
+  [![Version](https://img.shields.io/badge/version-2.0.46-blue.svg)](https://github.com/your-org/open-shj-visual)
+  [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+  [![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey.svg)](https://shj.studio/website/)
+  
+  [🌐 Official Site](https://shj.studio/website/) | [📖 Docs](https://shj.studio/website/) | [💬 Community](https://github.com/your-org/open-shj-visual/discussions) | [🐛 Issues](https://github.com/your-org/open-shj-visual/issues)
+</div>
 
 ## Features
 
